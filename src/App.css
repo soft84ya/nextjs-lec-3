@@ -1,0 +1,49 @@
+
+
+/* only element selector use */
+
+
+header{
+  width: 980px;
+  height: 140px;
+  background-color: #0D7962;
+  border:2px dashed black;
+  margin:auto;
+  margin-bottom: 10px;
+  color:#fff;
+}
+main{
+  width: 980px;
+  height: 450px;
+  color:#fff;
+  border:2px dashed white;
+  margin:auto;
+  margin-bottom: 10px;
+}
+aside{
+  width:270px;
+  height: 450px;
+  background-color: #0D7962;
+  border:2px dashed white;
+  float:left;
+  margin-right: 10px;
+  color:#fff;
+ 
+}
+section{
+  width:690px;
+  height: 450px;
+  background-color: #0D7962;
+  border:2px dashed white;
+  float:left;
+  color:#fff;
+  
+}
+footer{
+  width: 980px;
+  height: 70px;
+  background-color: #0D7962;
+  border:2px dashed red;
+  margin:auto;
+  color:#fff; 
+}
